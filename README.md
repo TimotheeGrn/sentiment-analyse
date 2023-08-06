@@ -33,7 +33,7 @@ Sentiment positif.
 ```
 Entrez votre langue (fr/en) : fr
 Entrez une phrase : Je suis confus
-None
+Sentiment négatif.
 ```
 
 J'espère que ce fichier README vous sera utile. Si vous avez des questions ou des commentaires sur votre code, n'hésitez pas à me les poser. Je suis toujours heureux de discuter avec vous. 😊
